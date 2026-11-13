@@ -129,3 +129,12 @@ docker ps
 # 5-setting-up-prisma
 
 See [Prisma setup instructions](docs/prisma-setup.md).
+# 6-prisma-module
+Command 1
+```
+nest g module prisma
+```
+Command 2
+```
+nest g service prisma --no-spec
+```
