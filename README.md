@@ -126,3 +126,6 @@ Command 2
 ```
 docker ps
 ```
+# 5-setting-up-prisma
+
+See [Prisma setup instructions](docs/prisma-setup.md).
