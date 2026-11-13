@@ -103,3 +103,4 @@ Command to generate module
 ```
 nest g module bookmark
 ```
+# 2-auth-module
