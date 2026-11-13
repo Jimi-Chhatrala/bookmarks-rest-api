@@ -105,3 +105,24 @@ nest g module bookmark
 ```
 # 2-auth-module
 # 3-auth-controller
+# 4-setting-up-postgres-in-docker
+
+Commands to check if docker is running.
+Command 1
+```
+docker ps
+```
+Command 2
+```
+docker --version
+```
+
+Run docker db command:
+Command 1
+```
+docker compose up dev-db -d
+```
+Command 2
+```
+docker ps
+```
