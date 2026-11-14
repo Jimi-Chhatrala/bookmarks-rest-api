@@ -138,3 +138,4 @@ Command 2
 ```
 nest g service prisma --no-spec
 ```
+# 7-using-auth-dtos-nestjs-pipes
