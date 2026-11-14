@@ -150,3 +150,4 @@ npx prisma migrate dev
 ```
 # 9-sign-in-logic
 # 10-automate-postgres-restart-and-prisma-migrations
+# 11-nestjs-config-module
