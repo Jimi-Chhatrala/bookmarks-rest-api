@@ -139,3 +139,12 @@ Command 2
 nest g service prisma --no-spec
 ```
 # 7-using-auth-dtos-nestjs-pipes
+# 8-hashing-user-password-with-argon-sign-up-logic
+Run docker command
+```
+docker compose up -d
+```
+Update prisma models by making changes in prisma schema file
+```
+npx prisma migrate dev
+```
