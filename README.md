@@ -149,3 +149,5 @@ Update prisma models by making changes in prisma schema file
 npx prisma migrate dev
 ```
 # 9-sign-in-logic
+# 10-automate-postgres-restart-and-prisma-migrations
+
